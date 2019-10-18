@@ -1,0 +1,47 @@
+<div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>About Crystal</p>
+                </div>
+                
+            </div>
+            <div class="row ftm_undr">
+                    <div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>Video Overview</p>
+                </div>
+            </div>
+            <div class="row ftm_undr">
+                    <div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>Customer Support</p>
+                </div>
+            </div>
+            <div class="row ftm_undr">
+                    <div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>Theme Features</p>
+                </div>
+            </div>
+            <div class="row ftm_undr">
+                    <div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>Breaking News</p>
+                </div>
+            </div>
+            <div class="row ftm_undr">
+                    <div class="col-md-3 ftm_icn">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+                <div class="col-md-9 ftm_usfl_txt">
+                    <p>Upcoming Updates</p>
+                </div>
